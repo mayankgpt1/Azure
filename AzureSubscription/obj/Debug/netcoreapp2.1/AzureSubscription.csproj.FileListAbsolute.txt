@@ -1,0 +1,11 @@
+C:\Users\Mayank14383\source\repos\AzureSubscription\AzureSubscription\bin\Debug\netcoreapp2.1\AzureSubscription.deps.json
+C:\Users\Mayank14383\source\repos\AzureSubscription\AzureSubscription\bin\Debug\netcoreapp2.1\AzureSubscription.runtimeconfig.json
+C:\Users\Mayank14383\source\repos\AzureSubscription\AzureSubscription\bin\Debug\netcoreapp2.1\AzureSubscription.runtimeconfig.dev.json
+C:\Users\Mayank14383\source\repos\AzureSubscription\AzureSubscription\bin\Debug\netcoreapp2.1\AzureSubscription.dll
+C:\Users\Mayank14383\source\repos\AzureSubscription\AzureSubscription\bin\Debug\netcoreapp2.1\AzureSubscription.pdb
+C:\Users\Mayank14383\source\repos\AzureSubscription\AzureSubscription\obj\Debug\netcoreapp2.1\AzureSubscription.csproj.CoreCompileInputs.cache
+C:\Users\Mayank14383\source\repos\AzureSubscription\AzureSubscription\obj\Debug\netcoreapp2.1\AzureSubscription.AssemblyInfoInputs.cache
+C:\Users\Mayank14383\source\repos\AzureSubscription\AzureSubscription\obj\Debug\netcoreapp2.1\AzureSubscription.AssemblyInfo.cs
+C:\Users\Mayank14383\source\repos\AzureSubscription\AzureSubscription\obj\Debug\netcoreapp2.1\AzureSubscription.dll
+C:\Users\Mayank14383\source\repos\AzureSubscription\AzureSubscription\obj\Debug\netcoreapp2.1\AzureSubscription.pdb
+C:\Users\Mayank14383\source\repos\AzureSubscription\AzureSubscription\obj\Debug\netcoreapp2.1\AzureSubscription.csprojAssemblyReference.cache
